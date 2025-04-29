@@ -17,7 +17,7 @@ Ensure proper alignment and spacing.
 >  - navigation bar
 >  - media queries
 
-# Tasks
+## Tasks
 
 - Apply Flexbox or Grid for layout.
 - Make the page responsive.
